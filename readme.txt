@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Git tracks changes.
 Git is good
 My stupid boss still prefers SVN.
+Creating a new branch is quick.
