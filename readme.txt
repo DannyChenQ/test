@@ -7,6 +7,11 @@ My stupid boss still prefers SVN.
 Creating a new branch is quick & simple.
 ||||||| merged common ancestors
 Creating a new branch is quick.
+<<<<<<< HEAD
 =======
 Creating a new branch is quick and simple.
+>>>>>>> featuer1
+||||||| merged common ancestors
+Creating a new branch is quick and simple.
+=======
 >>>>>>> featuer1
